@@ -41,4 +41,4 @@
 
 Ошибки, которые я допустил: не привел таргет к нормальному распределению и не прошкалировал непрерывные переменные.
 
-[Pizza: OLS, groupby, 12 models. GBR: R2 score 0.94](https://www.kaggle.com/agleev/pizza-ols-groupby-12-models-gbr-r2-score-0-94) мой проект на kaggle.
+[Pizza: OLS, groupby, 12 models. GBR: R2 score 0.94](https://www.kaggle.com/agleev/pizza-ols-groupby-12-models-gbr-r2-score-0-94) - мой проект на kaggle.
