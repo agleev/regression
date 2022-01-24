@@ -25,7 +25,7 @@
 Анализ данных показал, что существует линейная зависимость между расходами по страховке `charges` и индексом массы тела `bmi` у курильщиков. То есть, если человек курит и имеет избыточный вес, то расходы по его страховке возрастают. Если человек не курит, но так же имеет избыточный вес, то у большинства клиентов размер `charges` не превышает 15 000.  
 Для наглядности график ниже:
 
-![scatterplot charges and bmi](https://www.kaggleusercontent.com/kf/80048443/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..a4JhfI3MuYP9VrG02V76Aw.me38R2NaW9bU2GCn56BsfExGZSTL4F39NBzL80eq4EOl0df_XMJ-znN-BcqV-mqY9UCBBuEYXxjskGn4k5XGHcl8RLrsl0TDyI2w1p_WHXqbsObN6KMhXgNjRjbs2KFHYzgaCCYXFBH92o_T9ADzr8utOf_gN0I_7fBbtkB4fcGWhBpctnbJ5_nPHRhdj4z1QF_KJvthH4Zt_phJykGS4Nb_vvpArF-Ekm8QJTOnU_2vF7sdjaSw6yaqKbVPEKEvzj6Dhj6AkcTJ8GvWwE6KwQfaDKlGWb_QcAiRZ5zWScJfJzh6_skmFBYDVcgU4nucJZPvMK2sy1TrbBQgp4lOdgw--prSPh5mhfrxvSmWO0GejU6iViw6cJ5arW8savt6Ncfs6rJErYEwzMn3G44XiNebh3Jm3EZiBhmGBRpDzSU5MQiGXjjtDmjV9JTbUb2u4rdtfXQq4gHlY3LMVtVMccNK6R21dYxFeOOqDBpekHw90dgtZVZKBMYtPsimw3j5UmMSSxevQwWvux9roDe_Kx_3cHZeWjX21wyovmwxTlDsLeBalpY7zkP0rzCQAcTWMSFThA3TbWaf7s-HLT30eqjDK21JMjoxTK9MLEexZZINEs47nQYXb_FM_QTPGMDmsq8rReBaOPu5Vf-JuB5W--qmHC4p98CZ6Lw1REkZEqs.PA_Jpltkay_3CTZIcUYksQ/__results___files/__results___58_1.png "scatterplot")
+![scatterplot charges and bmi](https://raw.githubusercontent.com/agleev/regression/master/03_medical_cost_prediction_r2_0.89/scatterplot.png "scatterplot")
 
 Дальнейшая работа с данными:
 1. Прологорифмировал целевую переменную, чтобы привести ее к нормальному распределению.
